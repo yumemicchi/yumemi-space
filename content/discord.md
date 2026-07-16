@@ -1,60 +1,41 @@
 ---
-<<<<<<< HEAD
 title: "Discord"
 layout: "single"
 draft: false
-=======
-title: Discord
----
 ---
 
-title: "Discord"
+# Amaneki
 
-layout: "single"
+> A quiet digital library for slow thought, literature, and quiet reflection.
 
-draft: false
-
->>>>>>> 6bd9c09ff0110cbb5ea591cabde486308620efac
----
-
-# Amaneki Library
-
-<<<<<<< HEAD
 ![Amaneki Status](https://img.shields.io/discord/1526872231836385381?color=111111&label=Amaneki&logo=discord&logoColor=ffffff&style=flat-square)
-=======
-![Amaneki Status]([https://img.shields.io/discord/1526872231836385381?color=111111&label=Amaneki&logo=discord&logoColor=ffffff&style=flat-square](https://img.shields.io/discord/YOUR_SERVER_ID?color=111111&label=Amaneki&logo=discord&logoColor=ffffff&style=flat-square))
->>>>>>> 6bd9c09ff0110cbb5ea591cabde486308620efac
 
-Welcome to the digital hearth. 
-
-If you are looking for a quiet, slow-paced space to share essays, discuss books, or exchange thoughts on philosophy and creative work, you are welcome here.
+Amaneki was built to escape the chaotic, high-stimulus nature of modern social platforms. It is a slow-web sanctuary—a place to share writing, talk about books, and step away from the noise.
 
 ---
 
-### Community Pillars
+### The Reading Rooms
 
-Unlike high-stimulus, chaotic chat rooms, this server is designed with strict intention:
-
-<<<<<<< HEAD
-- **The Slow Web:** Conversations are thoughtful, deliberate, and free of rapid-fire spam.
-- **Dedicated Writing Circles:** Structured spaces to share prose, poetry, and receive honest, constructive critique.
-- **Zero Intrusive Pings:** Server announcements are entirely opt-in so your workspace remains quiet.
-=======
-* **The Slow Web:** Conversations are thoughtful, deliberate, and free of rapid-fire spam.
-
-* **Dedicated Writing Circles:** Structured spaces to share prose, poetry, and receive honest, constructive critique.
-
-* **Zero Intrusive Pings:** Server announcements are entirely opt-in so your workspace remains quiet.
->>>>>>> 6bd9c09ff0110cbb5ea591cabde486308620efac
+* **The Library:** A quiet archive for sharing completed essays, poetry, and prose.
+* **The Study:** Low-stimulus channels for deliberate discussions on philosophy, classic literature, and art.
+* **The Workshop:** Opt-in channels for swapping drafts, getting constructive feedback, and discussing the writing craft.
 
 ---
 
-### Join the Server
+### Guest Rules
 
-Click the link below to generate your invite and join the conversation:
+To maintain the quiet atmosphere of the space, we ask that you observe three simple guidelines:
 
-<<<<<<< HEAD
-[ Enter the Amaneki Server Invite ](https://discord.gg/8M3Yxekc5A)
-=======
-[👉 Enter the Amaneki Server Invite 👈](++**[https://discord.gg/8M3Yxekc5A](https://discord.gg/8M3Yxekc5A)**++)
->>>>>>> 6bd9c09ff0110cbb5ea591cabde486308620efac
+1. **Let conversations breathe.** There is no need for rapid-fire chat. Take your time to write and respond.
+2. **Critique with care.** When offering feedback on creative work, be constructive and kind. 
+3. **Respect the clean spaces.** Keep promotional links and external spam confined to designated showcase areas.
+
+---
+
+### Pull Up a Chair
+
+You are welcome to join us and share your thoughts. 
+
+[👉 Click here to enter the Amaneki Library 👈](https://discord.gg/8M3Yxekc5A)
+
+*(Upon arrival, please read the `#rules` channel to unlock the literature and discussion sections.)*
