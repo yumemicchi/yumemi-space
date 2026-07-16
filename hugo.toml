@@ -1,10 +1,10 @@
 baseURL = 'https://yumemi.space/'
 languageCode = 'en-us'
-title = 'Yumemi'
+title = 'Yumemi's Space'
 theme = 'PaperMod'
 
 [params.homeInfoParams]
-  title = "Yumemi"
+  title = "Yumemi's Space"
   content = "Welcome. A space for literature, thoughts, and quiet reflection."
 
 [[menu.main]]
