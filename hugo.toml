@@ -1,6 +1,6 @@
 baseURL = 'https://yumemi.space/'
 languageCode = 'en-us'
-title = 'Yumemi's Space'
+title = "Yumemi's Space"
 theme = 'PaperMod'
 
 [params.homeInfoParams]
