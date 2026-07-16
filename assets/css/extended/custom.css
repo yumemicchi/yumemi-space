@@ -1,0 +1,16 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;500;600&display=swap');
+
+:root {
+    /* Main UI, header, and navigation font */
+    --font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    
+    /* The actual reading/writing font */
+    --content-font-family: 'EB Garamond', serif;
+}
+
+/* Make the literary text slightly larger and easier to read */
+.post-content {
+    font-size: 1.25rem;
+    line-height: 1.65;
+}
