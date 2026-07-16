@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = "Yumemi's Space"
 theme = 'PaperMod'
 
+[params]
+    [params.label]
+        text = "Yumemi"
+        icon = "/favicon-32x32.png"  # Points to the favicon in your static folder
+        iconHeight = 24              # Perfectly aligns the icon size with the text
+
 [params.homeInfoParams]
   title = "Yumemi's Space"
   content = "Welcome. A space for literature, thoughts, and quiet reflection."
