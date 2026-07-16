@@ -8,6 +8,11 @@ theme = 'PaperMod'
   content = "Welcome. A space for literature, thoughts, and quiet reflection."
 
 [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 5
+
+[[menu.main]]
   name = "Literature"
   url = "/posts/"
   weight = 10
