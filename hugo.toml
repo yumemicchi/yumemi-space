@@ -4,31 +4,33 @@ title = "Yumemi's Space"
 theme = 'PaperMod'
 
 [params]
+    images = ["/og-image.png"]
+
     [params.label]
         text = "Yumemi"
-        icon = "/favicon-32x32.png"  # Points to the favicon in your static folder
-        iconHeight = 24              # Perfectly aligns the icon size with the text
+        icon = "/favicon-32x32.png"
+        iconHeight = 24
 
 [params.homeInfoParams]
-  title = "Yumemi's Space"
-  content = "Welcome. A space for literature, thoughts, and quiet reflection."
+    title = "Yumemi's Space"
+    content = "Welcome. A space for literature, thoughts, and quiet reflection."
 
 [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 5
+    name = "Home"
+    url = "/"
+    weight = 5
 
 [[menu.main]]
-  name = "Literature"
-  url = "/posts/"
-  weight = 10
+    name = "Literature"
+    url = "/posts/"
+    weight = 10
 
 [[menu.main]]
-  name = "Discord"
-  url = "/discord/"
-  weight = 20
+    name = "Discord"
+    url = "/discord/"
+    weight = 20
 
 [[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 30
+    name = "About"
+    url = "/about/"
+    weight = 30
