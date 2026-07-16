@@ -1,0 +1,23 @@
+baseURL = 'https://yumemi.space/'
+languageCode = 'en-us'
+title = 'Yumemi'
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+  title = "Yumemi"
+  content = "Welcome. A space for literature, thoughts, and quiet reflection."
+
+[[menu.main]]
+  name = "Literature"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  name = "Discord"
+  url = "/discord/"
+  weight = 20
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 30
