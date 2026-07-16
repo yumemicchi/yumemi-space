@@ -72,3 +72,15 @@
     letter-spacing: 0.1em;
     color: #a8a092;
 }
+
+/* Elegant book-style paragraph indents */
+.post-content p {
+    text-indent: 2.5em;       /* Indents the first line of each paragraph */
+    margin-top: 0;
+    margin-bottom: 0.75em;    /* Brings paragraphs closer together so they flow like a book */
+}
+
+/* Optional: Do not indent the very first paragraph of an essay (standard editorial rule) */
+.post-content p:first-of-type {
+    text-indent: 0;
+}
