@@ -40,4 +40,4 @@ You are welcome to join us and share your thoughts.
 
 *(Upon arrival, please read the `#rules` channel to unlock the literature and discussion sections.)*
 
-<iframe src="https://discord.com/widget?id=1526872231836385381&theme=light" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discordapp.com/widget?id=1526872231836385381&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
