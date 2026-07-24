@@ -1,25 +1,20 @@
-/* Import Cormorant Garamond (literary) and Inter (clean UI) */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Inter:wght@300;400;500&display=swap');
-
 :root {
-    /* Set the elegant Cormorant Garamond as the primary font */
     --font-family: 'Cormorant Garamond', serif;
     --content-font-family: 'Cormorant Garamond', serif;
     
-    /* Soft, warm paper tones to replace harsh white/black contrast */
-    --theme: #faf8f5;       /* Warm alabaster background */
-    --primary: #24221f;     /* Warm, rich charcoal text */
-    --secondary: #7c7569;   /* Muted earth-gray for subtext and dates */
-    --border: #e6e1da;      /* Soft beige-gray divider lines */
+    --theme: #faf8f5;
+    --primary: #24221f;
+    --secondary: #7c7569;
+    --border: #e6e1da;
 }
 
-/* Elegant, tracked-out top navigation */
+/* Navigation Menu */
 .menu a {
     font-family: 'Inter', sans-serif;
     font-size: 0.75rem;
     font-weight: 400;
     text-transform: uppercase;
-    letter-spacing: 0.15em; /* Spreads the letters out elegantly */
+    letter-spacing: 0.15em;
     color: var(--secondary);
     transition: color 0.25s ease;
 }
@@ -28,34 +23,33 @@
     color: var(--primary);
 }
 
-/* Styled logo */
+/* Header Logo */
 .logo a {
     font-family: 'Cormorant Garamond', serif;
     font-size: 1.75rem;
     font-weight: 400;
-    font-style: italic; /* A subtle slant on the header name */
+    font-style: italic;
     letter-spacing: -0.01em;
 }
 
-/* Essay titles */
+/* Post Titles */
 .post-title {
     font-family: 'Cormorant Garamond', serif;
     font-size: 2.25rem;
-    font-weight: 300; /* Lighter weight for a refined look */
+    font-weight: 300;
     line-height: 1.2;
     color: var(--primary);
 }
 
-/* The reading body text */
+/* Post Body Text */
 .post-content {
-    /* Cormorant Garamond naturally runs a bit small, so we increase size and line height */
     font-size: 1.35rem; 
     line-height: 1.8; 
     font-weight: 400;
     color: var(--primary);
 }
 
-/* Beautiful, quiet blockquotes */
+/* Blockquotes */
 .post-content blockquote {
     border-left: 1.5px solid var(--secondary);
     padding-left: 1.5rem;
@@ -64,7 +58,7 @@
     margin: 1.5rem 0;
 }
 
-/* Elegant footer signature */
+/* Footer */
 .footer {
     font-family: 'Inter', sans-serif;
     font-size: 0.7rem;
@@ -73,19 +67,18 @@
     color: #a8a092;
 }
 
-/* Smooth Fade-In Animation */
+/* Page Fade-In Animation */
 @keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(6px); /* Subtle 6px upward slide for a warm, cozy feel */
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+    from {
+        opacity: 0;
+        transform: translateY(6px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
-/* Apply to the entire page */
 body {
-  animation: fadeIn 0.5s ease-out forwards;
+    animation: fadeIn 0.5s ease-out forwards;
 }
