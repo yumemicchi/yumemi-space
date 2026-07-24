@@ -6,7 +6,24 @@
 </header>
 {{- end }}
 
-{{- range .Pages }}
+{{- if .Content }}
+<div class="post-content">
+  {{- if not .Params.disableAnchoredHeadings }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{- end }}
+</div>
+{{- end }}
+
+{{- $pages := union .RegularPages .Sections }}
+
+{{- if .IsHome }}
+{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
+{{- end }}
+
+{{- $paginator := .Paginate $pages }}
+
+{{- range $index, $page := $paginator.Pages }}
 
 <article class="post-entry">
   
@@ -24,11 +41,11 @@
   </div>
   {{- end }}
 
-  <!-- 3. TAGS -->
+  <!-- 3. TAGS (Renders right below the preview) -->
   {{- if .Params.tags }}
-  <div class="entry-tags" style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px; z-index: 2; position: relative;">
+  <div class="entry-tags" style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px; position: relative; z-index: 2;">
     {{- range .Params.tags }}
-    <a href="{{ "tags/" | absURL }}{{ . | urlize }}/" style="font-size: 12px; opacity: 0.75; text-decoration: none; padding: 2px 8px; border-radius: 4px; background: rgba(0, 0, 0, 0.05);">#{{ . }}</a>
+    <a href="{{ "tags/" | absURL }}{{ . | urlize }}/" style="font-size: 12px; opacity: 0.8; text-decoration: none; padding: 2px 8px; border-radius: 4px; background: rgba(0, 0, 0, 0.06); color: inherit;">#{{ . }}</a>
     {{- end }}
   </div>
   {{- end }}
@@ -43,6 +60,19 @@
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 
+{{- end }}
+
+{{- if gt $paginator.TotalPages 1 }}
+<footer class="page-footer">
+  <nav class="pagination">
+    {{- if $paginator.HasPrev }}
+    <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">« {{ i18n "prev_page" }}</a>
+    {{- end }}
+    {{- if $paginator.HasNext }}
+    <a class="next" href="{{ $paginator.Next.URL | absURL }}">{{ i18n "next_page" }} »</a>
+    {{- end }}
+  </nav>
+</footer>
 {{- end }}
 
 {{- end }}
