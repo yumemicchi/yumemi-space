@@ -1,5 +1,5 @@
 ---
-title: "Our Discord Server: Amaneki"
+title: "Our Discord Server: Amaneki Library"
 layout: "single"
 draft: false
 ---
@@ -37,4 +37,6 @@ You are welcome to join us and share your thoughts. That's why we made this serv
 
 *(Upon arrival, please read the `#notice-board` channel to stay updated on the server's happenings.)*
 
-<iframe src="https://discordapp.com/widget?id=1526872231836385381&theme=light" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<div style="display: flex; justify-content: center;">
+  <iframe src="https://discordapp.com/widget?id=1526872231836385381&theme=light" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</div>
