@@ -1,3 +1,8 @@
+/* Enable smooth cross-page transitions */
+@view-transition {
+  navigation: auto;
+}
+
 :root {
     --font-family: 'Cormorant Garamond', serif;
     --content-font-family: 'Cormorant Garamond', serif;
