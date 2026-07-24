@@ -2,6 +2,7 @@
 title: "A Dead Poet"
 date: 2026-07-03T12:00:00+08:00
 draft: false
+tags: ["journal","non-fiction"]
 ---
 
 

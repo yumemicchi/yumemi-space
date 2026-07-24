@@ -13,7 +13,7 @@ theme = 'PaperMod'
 
 [params.homeInfoParams]
     title = "Yumemi's Space"
-    content = "She who found solace through words. A stray cat hoping to share its warmth to the world."
+    content = "She who found solace through words. A stray cat hoping to share the warmth to the world."
 
 [[menu.main]]
     name = "Home"
@@ -24,6 +24,11 @@ theme = 'PaperMod'
     name = "Literature"
     url = "/posts/"
     weight = 10
+
+[[menu.main]]
+    name = "TAGS"
+    url = "/tags/"
+    weight = 15
 
 [[menu.main]]
     name = "Discord"

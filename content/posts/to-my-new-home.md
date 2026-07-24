@@ -2,6 +2,7 @@
 title: "To My New Home"
 date: 2026-06-16T12:00:00+08:00
 draft: false
+tags: ["fictional journal", "fiction"]
 ---
 
 I am writing this on my phone. Despite my lack of certainty, it is time for me to go. I have decided (not without a pinch of doubt) to live somewhere closer to my work. I have grown to like my job a bit more than I did since my last entry about it, but the fatigue that it brings every day has not diminished. I am hoping that dramatically reducing my travel time to and from work will allow me to chip away at least some of the fatigue; I must play the long game, after all.
