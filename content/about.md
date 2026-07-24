@@ -15,6 +15,6 @@ To whoever is reading this, I hope this small literature blog can motivate you t
 ## A note about yumemi.space:
 You might have noticed that the pages do not contain a lot of flair in it. That is by design. I wanted the website to be as responsive as possible and to consume the least bandwidth possible. Aside from that, I also hoped to emphasize its written content rather than diverting your attention (and mind) towards the website's aesthetics.
 
-Aside from that, you might have noticed that the server is blindingly bright. I am very sorry if you are not a fan of it, but I am a fan of light mode. Fret not, you can click the moon-icon beside my name on the top-left to enable `dark mode`. Cheers!
+Aside from that, you might have noticed that the server is blindingly bright. I am very sorry if you are not a fan of it, but I am a fan of light mode. Fret not, you can click the moon-icon beside my name on the top-left to enable **dark mode**. Cheers!
 
 *PS. The website is made using a combination of GitHub Pages, Hugo & Papermod, and a little bit of witchcraft!*
