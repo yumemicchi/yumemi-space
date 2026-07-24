@@ -1,10 +1,8 @@
 ---
-title: "Discord"
+title: "Our Discord Server: Amaneki"
 layout: "single"
 draft: false
 ---
-
-# Amaneki
 
 > A quiet digital library for slow thought, literature, and quiet reflection.
 
