@@ -2,6 +2,7 @@
 title: "My Co-worker"
 date: 2026-07-01T12:00:00+08:00
 draft: false
+tags: ["fictional journal", "fiction"]
 ---
 
 Today, I saw my co-worker sitting in front of Lawson's. She slowly and silently unwrapped her food from the paper it was covered in, paying no attention to anyone around her. I made sure not to be a distraction, so I walked past her without saying anything.
