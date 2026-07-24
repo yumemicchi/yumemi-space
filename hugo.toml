@@ -7,12 +7,12 @@ theme = 'PaperMod'
     images = ["/og-image.png"]
 
     [params.label]
-        text = "Yumemi"
+        text = "Yumemi's Space"
         icon = "/favicon-32x32.png"
         iconHeight = 24
 
 [params.homeInfoParams]
-    title = "Yumemi's Space"
+    title = "Hello, stranger. Are you lost too?"
     content = "She who found solace through words. A stray cat hoping to share the warmth to the world."
 
 [[menu.main]]
