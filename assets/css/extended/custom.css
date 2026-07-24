@@ -72,3 +72,20 @@
     letter-spacing: 0.1em;
     color: #a8a092;
 }
+
+/* Smooth Fade-In Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px); /* Subtle 6px upward slide for a warm, cozy feel */
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Apply to the entire page */
+body {
+  animation: fadeIn 0.5s ease-out forwards;
+}
