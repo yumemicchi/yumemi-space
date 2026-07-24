@@ -13,7 +13,7 @@ theme = 'PaperMod'
 
 [params.homeInfoParams]
     title = "Yumemi's Space"
-    content = "Welcome. A space for literature, thoughts, and quiet reflection."
+    content = "She who found solace through words. A stray cat hoping to share its warmth to the world."
 
 [[menu.main]]
     name = "Home"
