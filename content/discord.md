@@ -39,3 +39,5 @@ You are welcome to join us and share your thoughts.
 [👉 Click here to enter the Amaneki Library 👈](https://discord.gg/8M3Yxekc5A)
 
 *(Upon arrival, please read the `#rules` channel to unlock the literature and discussion sections.)*
+
+<iframe src="https://discord.com/widget?id=1526872231836385381&theme=light" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
