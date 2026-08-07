@@ -1,39 +1,42 @@
 ---
-title: "Our Discord Server: Amaneki Library"
+title: "Our Discord Server: Witchy Abode"
 layout: "single"
 draft: false
 ---
 
-> A melting pot for different types of readers while also functioning as a writers' space.
+> A melting pot for different types of people while also functioning as a space for bookish people!
 
-The Amaneki Library is not intended to be a general social space. Instead, members are encouraged to treat this server as a secondary online community for when they are interested in discussing literature-related topics.
+Whimsy! Witchy Abode is your third space straight from the magical realm—a place where you escape from the tiring hustle and bustle of real life's competitive and highly efficient nature. Come now, remove your mask and let your inner whimsy shine!
+
+You don't have to perform here, fellow witch. Let this abode be a place of peace, quiet, and fun!
 
 ---
 
 ### What the server offers
 
-* **The Library:** Amaneki Library offers designated channels for the bookish to share their favorite titles, discuss literature, and share quotes from books they have read.
-* **The Workshop:** Forum channels like `#writing-advice` and `#my-corner` act as spaces for members who want to share or improve their craft, offering resources and guidance specifically for writing. Newbies are welcome!
-* **Amaneki Events:** Once enough members have gathered, special reading events like "Book of the Month" will be hosted, along with events such as Book Talks and Writing Challenges.
-
+* **Age-restricted & Safe:** An SFW server strictly for individuals of legal age.
+* **Customizable Icons:** Cute role icons! You can even choose which one appears beside your name.
+* **Curated Spaces:** Well-organized and thoughtfully curated channels.
+* **Horizontal Community:** A balanced server structure where admins do not flaunt their roles and everyone is treated equally.
+* **Inclusive Environment:** LGBT-friendly (a standard that should be common sense, but worth emphasizing).
+* **Zero Tolerance:** Any form of bigotry or hate speech is strictly prohibited.
 ---
 
-### Guest Rules
+### Witch Rules
 
 To maintain the quiet atmosphere of the space, we ask that you observe four simple guidelines:
 
-1. **Let conversations breathe.** Real-life libraries demand their members to be quiet while on the premises. However, here in Amaneki, casual conversations are encouraged! All we ask is that you keep topics like gaming to a minimum. 
-2. **Critique with care.** As previously mentioned, we offer spaces for writers to showcase their work. Please make sure that you follow our guidelines about critiquing #my-corner posts.
-3. **Respect the clean spaces.** Make sure to avoid posting irrelevant content in our specialized channels! We are all adults in this space. As much as the server facilitators want to keep the spaces clean at all times, due to limited time, they can't always be around to moderate the community.
-4. **No younglings allowed!** We ask that you confirm that you are at least 18 years old. It's a shame that we cannot help foster a space for young writers, but the peace of fellow adults comes first.
+1. **Let conversations breathe and be respectful.** Here in Witchy Abode, casual conversations are encouraged! All we ask is that you keep edgy jokes out of the server!
+2. **Respect the clean spaces.** Make sure to avoid posting irrelevant content in our specialized channels! We are all adults in this space. As much as the server facilitators want to keep the spaces clean at all times, due to limited time, they can't always be around to moderate the community.
+3. **No younglings allowed!** We ask that you confirm that you are at least 18 years old. It's a shame that we cannot help foster a space for young witches, but the peace of fellow adults comes first.
 
 ---
 
-### Come now. Join us in our simple gathering!
+### Come now. Join us in our magical gathering!
 
 You are welcome to join us and share your thoughts. That's why we made this server in the first place! 
 
-[Click here to enter the Amaneki Library](https://discord.gg/8M3Yxekc5A)
+[Click here to enter the Witchy Abode](https://discord.gg/5YUAeNxbpk)
 
 *(Upon arrival, please read the `#notice-board` channel to stay updated on the server's happenings.)*
 
