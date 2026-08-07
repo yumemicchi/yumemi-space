@@ -38,7 +38,7 @@ You are welcome to join us and share your thoughts. That's why we made this serv
 
 [Click here to enter the Witchy Abode now!](https://discord.gg/5YUAeNxbpk)
 
-*(Upon arrival, please read the `#notice-board` channel to stay updated on the server's happenings.)*
+*See you there!*
 
 <div style="display: flex; justify-content: center;">
   <iframe src="https://discordapp.com/widget?id=1526872231836385381&theme=light" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
