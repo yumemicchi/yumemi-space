@@ -43,3 +43,32 @@ You are welcome to join us and share your thoughts. That's why we made this serv
 <div style="display: flex; justify-content: center;">
   <iframe src="https://discordapp.com/widget?id=1526872231836385381&theme=light" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
+
+<style>
+  /* Page background */
+  html, body, .main, .post-single, .header, .footer {
+    background-color: #3A184D !important;
+  }
+
+  /* Text colors */
+  body, 
+  .post-title, 
+  .post-content, 
+  h1, h2, h3, h4, h5, h6, 
+  p, li, span, blockquote, 
+  .menu a, .logo a, .footer {
+    color: #FFC157 !important;
+  }
+
+  /* Links & Accent Borders */
+  .post-content a, 
+  .menu a:hover {
+    color: #FFC157 !important;
+    text-decoration: underline;
+  }
+
+  .post-content blockquote {
+    border-left-color: #FFC157 !important;
+    color: #FFC157 !important;
+  }
+</style>
