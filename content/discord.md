@@ -36,7 +36,7 @@ To maintain the quiet atmosphere of the space, we ask that you observe four simp
 
 You are welcome to join us and share your thoughts. That's why we made this server in the first place! 
 
-[Click here to enter the Witchy Abode](https://discord.gg/5YUAeNxbpk)
+[Click here to enter the Witchy Abode now!](https://discord.gg/5YUAeNxbpk)
 
 *(Upon arrival, please read the `#notice-board` channel to stay updated on the server's happenings.)*
 
@@ -45,30 +45,30 @@ You are welcome to join us and share your thoughts. That's why we made this serv
 </div>
 
 <style>
-  /* Page background */
+  /* Page background - Soft Dusty Plum */
   html, body, .main, .post-single, .header, .footer {
-    background-color: #3A184D !important;
+    background-color: #31263A !important;
   }
 
-  /* Text colors */
+  /* Text colors - Warm Pastel Buttercream */
   body, 
   .post-title, 
   .post-content, 
   h1, h2, h3, h4, h5, h6, 
   p, li, span, blockquote, 
   .menu a, .logo a, .footer {
-    color: #FFC157 !important;
+    color: #F4E3B2 !important;
   }
 
   /* Links & Accent Borders */
   .post-content a, 
   .menu a:hover {
-    color: #FFC157 !important;
+    color: #F4E3B2 !important;
     text-decoration: underline;
   }
 
   .post-content blockquote {
-    border-left-color: #FFC157 !important;
-    color: #FFC157 !important;
+    border-left-color: #F4E3B2 !important;
+    color: #F4E3B2 !important;
   }
 </style>
