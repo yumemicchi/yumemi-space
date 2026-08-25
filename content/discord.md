@@ -24,7 +24,7 @@ You don't have to perform here, fellow witch. Let this abode be a place of peace
 
 ### Witch Rules
 
-To maintain the quiet atmosphere of the space, we ask that you observe four simple guidelines:
+To maintain the quiet atmosphere of the space, we ask that you observe three simple guidelines:
 
 1. **Let conversations breathe and be respectful.** Here in Witchy Abode, casual conversations are encouraged! All we ask is that you keep edgy jokes out of the server!
 2. **Respect the clean spaces.** Make sure to avoid posting irrelevant content in our specialized channels! We are all adults in this space. As much as the server facilitators want to keep the spaces clean at all times, due to limited time, they can't always be around to moderate the community.
