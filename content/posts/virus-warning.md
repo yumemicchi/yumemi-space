@@ -1,0 +1,16 @@
+---
+title: "Warning: Base64 Malware Payload Found on Impeachment Trial Attorney's Website"
+date: 2026-08-26T01:51:34+08:00
+draft: false
+tags: ["journal", "non-fiction", "cybersecurity", "malware"]
+---
+
+I haven't been able to watch the recent SWOH Impeachment Trial for the past two days, so I decided to research the people introduced this week. One of the resources I tried to check was **Atty. Divinagracia's profile**, which apparently exists on a website called `cndvlaw.com`—essentially their law firm's site. 
+
+**PLEASE DO NOT** click or follow the steps advised on the site to "verify" that you are not a bot.
+
+Upon further inspection, once you enter the website, a malicious payload is directly copied to your clipboard. **DO NOT PASTE THIS INTO YOUR POWERSHELL.** Simply put, it is Base64-encrypted malware.
+
+## To confirm this yourself, you can copy the website URL and paste it into a trusted online malware scanner. Not all virus scanners are updated simultaneously, so try a few verified checkers. If you are not interested or do not know what you're doing, simply avoid clicking the link.
+
+![Malware Check and Decoded Payload](/decoded-payload.png)
